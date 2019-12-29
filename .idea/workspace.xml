@@ -202,10 +202,10 @@
     </state>
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576893519205" />
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577231575384" />
-    <state x="598" y="139" key="CommitChangelistDialog2" timestamp="1577611172877">
+    <state x="598" y="139" key="CommitChangelistDialog2" timestamp="1577611702799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="598" y="139" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1577611172877" />
+    <state x="598" y="139" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1577611702799" />
     <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1577609614030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -234,16 +234,20 @@
     <state width="1877" height="143" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
     <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
     <state width="1877" height="214" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577611207030" />
+    <state x="672" y="258" key="MultipleFileMergeDialog" timestamp="1577611731262">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="672" y="258" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577611731262" />
     <state x="440" y="117" key="SettingsEditor" timestamp="1577610847176">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="117" key="SettingsEditor/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576103285209" />
     <state x="440" y="117" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1576947074157" />
     <state x="440" y="117" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577610847176" />
-    <state x="552" y="277" key="Vcs.Push.Dialog.v2" timestamp="1577611126860">
+    <state x="552" y="277" key="Vcs.Push.Dialog.v2" timestamp="1577611705258">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1577611126860" />
+    <state x="552" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1577611705258" />
     <state x="690" y="302" key="extract.method.dialog" timestamp="1577231877452">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
