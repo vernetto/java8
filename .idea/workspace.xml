@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890a28c4-283b-4066-bae1-6a013b01bcd6" name="Default Changelist" comment="" />
+    <list default="true" id="890a28c4-283b-4066-bae1-6a013b01bcd6" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/pierre/typeparameter/MyTypeParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/pierre/functional/MyBiFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/pierre/functional/MyBiFunction.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\pierre\github\java8\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Ur89awppOxt7OsiXUWPTdajq1a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -33,7 +48,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MyCompletableFutureWithException">
+  <component name="RunManager" selected="Application.MyTypeParameter">
     <configuration name="MyCompletableFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.pierre.concurrency.MyCompletableFuture" />
       <module name="java8" />
@@ -49,19 +64,6 @@
     </configuration>
     <configuration name="MyCompletableFutureWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.pierre.concurrency.MyCompletableFutureWithException" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.pierre.concurrency.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.pierre.concurrency.MyFuture" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
@@ -99,20 +101,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTypeParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pierre.typeparameter.MyTypeParameter" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pierre.typeparameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.MyFuture" />
       <item itemvalue="Application.MyLinkedBlockingQueue" />
       <item itemvalue="Application.MySemaphore" />
       <item itemvalue="Application.MyCompletableFuture" />
       <item itemvalue="Application.MyCompletableFutureWithException" />
+      <item itemvalue="Application.MyTypeParameter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyTypeParameter" />
         <item itemvalue="Application.MyCompletableFutureWithException" />
         <item itemvalue="Application.MyCompletableFuture" />
         <item itemvalue="Application.MySemaphore" />
         <item itemvalue="Application.MyLinkedBlockingQueue" />
-        <item itemvalue="Application.MyFuture" />
       </list>
     </recent_temporary>
   </component>
@@ -140,12 +155,46 @@
       <updated>1576103203038</updated>
       <workItem from="1576103206191" duration="3470000" />
       <workItem from="1576874951928" duration="12080000" />
-      <workItem from="1577228042592" duration="12476000" />
+      <workItem from="1577228042592" duration="14191000" />
+      <workItem from="1577611374901" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1577609705493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577609705493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1577611124972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577611124972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1577231575384">
@@ -153,39 +202,48 @@
     </state>
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576893519205" />
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577231575384" />
+    <state x="598" y="139" key="CommitChangelistDialog2" timestamp="1577611172877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="598" y="139" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1577611172877" />
     <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1577609614030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577609614030" />
-    <state width="1877" height="351" key="GridCell.Tab.0.bottom" timestamp="1577559372399">
+    <state width="1877" height="214" key="GridCell.Tab.0.bottom" timestamp="1577611207031">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087927" />
     <state width="1877" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
-    <state width="1877" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372399" />
-    <state width="1877" height="351" key="GridCell.Tab.0.center" timestamp="1577559372398">
+    <state width="1877" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577611207031" />
+    <state width="1877" height="214" key="GridCell.Tab.0.center" timestamp="1577611207030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
     <state width="1877" height="351" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
-    <state width="1877" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372398" />
-    <state width="1877" height="351" key="GridCell.Tab.0.left" timestamp="1577559372398">
+    <state width="1877" height="214" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577611207030" />
+    <state width="1877" height="214" key="GridCell.Tab.0.left" timestamp="1577611207030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
     <state width="1877" height="351" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
-    <state width="1877" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372398" />
-    <state width="1877" height="351" key="GridCell.Tab.0.right" timestamp="1577559372399">
+    <state width="1877" height="214" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577611207030" />
+    <state width="1877" height="214" key="GridCell.Tab.0.right" timestamp="1577611207030">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="143" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
     <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
-    <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372399" />
-    <state x="440" y="117" key="SettingsEditor" timestamp="1576947074157">
+    <state width="1877" height="214" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577611207030" />
+    <state x="440" y="117" key="SettingsEditor" timestamp="1577610847176">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="117" key="SettingsEditor/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576103285209" />
     <state x="440" y="117" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1576947074157" />
+    <state x="440" y="117" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577610847176" />
+    <state x="552" y="277" key="Vcs.Push.Dialog.v2" timestamp="1577611126860">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="277" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1577611126860" />
     <state x="690" y="302" key="extract.method.dialog" timestamp="1577231877452">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
