@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="890a28c4-283b-4066-bae1-6a013b01bcd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ur89awppOxt7OsiXUWPTdajq1a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.MyCompletableFutureWithException">
+    <configuration name="MyCompletableFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pierre.concurrency.MyCompletableFuture" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pierre.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCompletableFutureWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pierre.concurrency.MyCompletableFutureWithException" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pierre.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pierre.concurrency.MyFuture" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pierre.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pierre.collections.MyLinkedBlockingQueue" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pierre.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySemaphore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pierre.collections.MySemaphore" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pierre.collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyFuture" />
+      <item itemvalue="Application.MyLinkedBlockingQueue" />
+      <item itemvalue="Application.MySemaphore" />
+      <item itemvalue="Application.MyCompletableFuture" />
+      <item itemvalue="Application.MyCompletableFutureWithException" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyCompletableFutureWithException" />
+        <item itemvalue="Application.MyCompletableFuture" />
+        <item itemvalue="Application.MySemaphore" />
+        <item itemvalue="Application.MyLinkedBlockingQueue" />
+        <item itemvalue="Application.MyFuture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="890a28c4-283b-4066-bae1-6a013b01bcd6" name="Default Changelist" comment="" />
+      <created>1576103203038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576103203038</updated>
+      <workItem from="1576103206191" duration="3470000" />
+      <workItem from="1576874951928" duration="12080000" />
+      <workItem from="1577228042592" duration="12476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1577231575384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576893519205" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1577231575384" />
+    <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1577609614030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577609614030" />
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom" timestamp="1577559372399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087927" />
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
+    <state width="1877" height="351" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372399" />
+    <state width="1877" height="351" key="GridCell.Tab.0.center" timestamp="1577559372398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="143" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
+    <state width="1877" height="351" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
+    <state width="1877" height="351" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372398" />
+    <state width="1877" height="351" key="GridCell.Tab.0.left" timestamp="1577559372398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="143" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
+    <state width="1877" height="351" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
+    <state width="1877" height="351" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372398" />
+    <state width="1877" height="351" key="GridCell.Tab.0.right" timestamp="1577559372399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="143" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576881087926" />
+    <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1577047961510" />
+    <state width="1877" height="351" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577559372399" />
+    <state x="440" y="117" key="SettingsEditor" timestamp="1576947074157">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="117" key="SettingsEditor/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576103285209" />
+    <state x="440" y="117" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1576947074157" />
+    <state x="690" y="302" key="extract.method.dialog" timestamp="1577231877452">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="302" key="extract.method.dialog/0.0.1920.1080/-1920.0.1536.864@0.0.1920.1080" timestamp="1576103439674" />
+    <state x="690" y="302" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577231877452" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1577558448234">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1577558448234" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/org/pierre/collections/MySplit.java</url>
+          <line>5</line>
+          <properties class="org.pierre.collections.MySplit" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
